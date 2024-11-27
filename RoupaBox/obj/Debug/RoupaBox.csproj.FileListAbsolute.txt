@@ -1,0 +1,7 @@
+C:\Users\matheus.david\source\repos\RoupaBox\RoupaBox\bin\Debug\RoupaBox.exe.config
+C:\Users\matheus.david\source\repos\RoupaBox\RoupaBox\bin\Debug\RoupaBox.exe
+C:\Users\matheus.david\source\repos\RoupaBox\RoupaBox\bin\Debug\RoupaBox.pdb
+C:\Users\matheus.david\source\repos\RoupaBox\RoupaBox\obj\Debug\RoupaBox.csproj.AssemblyReference.cache
+C:\Users\matheus.david\source\repos\RoupaBox\RoupaBox\obj\Debug\RoupaBox.csproj.CoreCompileInputs.cache
+C:\Users\matheus.david\source\repos\RoupaBox\RoupaBox\obj\Debug\RoupaBox.exe
+C:\Users\matheus.david\source\repos\RoupaBox\RoupaBox\obj\Debug\RoupaBox.pdb
